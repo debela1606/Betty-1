@@ -11,7 +11,7 @@ Run the script `install.sh` with **sudo privileges** to install `betty-style` an
  * _betty-doc(1)_
 
 ### Documentation
-
+i
 Please visit the [Betty Wiki](https://github.com/holbertonschool/Betty/wiki) for the full specifications of Betty coding and documentation styles.
 
 You'll also find some references and some tools for common text editors such as Emacs and Atom.
